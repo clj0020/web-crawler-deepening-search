@@ -1,0 +1,16 @@
+{
+  "name": "web-crawler",
+  "version": "0.0.1",
+  "description": "Scrape the web using Iterative Deepening Search (IDS).",
+  "main": "server.js",
+  "author": "Carson Jones",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "cheerio": "latest",
+    "express": "latest",
+    "jquery": "^3.2.1",
+    "request": "latest",
+    "shortid": "^2.2.8",
+    "url": "^0.11.0"
+  }
+}
